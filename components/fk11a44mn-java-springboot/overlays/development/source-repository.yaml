@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fk11a44mn-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fk11a44mn-java-springboot
